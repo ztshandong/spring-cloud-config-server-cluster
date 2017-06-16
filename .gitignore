@@ -29,3 +29,4 @@ nbdist/
 target/
 src/main/resources/application.yml
 src/main/resources/bootstrap.yml
+.DS_Store
